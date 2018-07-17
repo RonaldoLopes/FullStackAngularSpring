@@ -1,1 +1,5 @@
 Criar módulo: ng g m nome_modulo
+Criar servico: ng g s nome_servico
+
+
+java -jar algamoney-api-1.0.0-SNAPSHOT.jar --spring.datasource.username=root --spring.datasource.password='4dm1n' --algamoney.origin-permitida=http://localhost:4200
