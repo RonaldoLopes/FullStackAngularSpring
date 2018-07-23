@@ -11,3 +11,7 @@ java -jar algamoney-api-1.0.0-SNAPSHOT.jar --spring.datasource.username=root --s
 
 angular jwt:
 npm install angular2-jwt --save
+
+
+como fazer build
+ng build --prod //meta-flag

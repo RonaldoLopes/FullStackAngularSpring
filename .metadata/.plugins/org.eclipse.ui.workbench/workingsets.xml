@@ -9,4 +9,5 @@
 <item elementID="=algamoney-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=algamoney-api/.apt_generated_tests" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1531825652641_2" label="Window Working Set" name="Aggregate for window 1531825652640"/>
 </workingSetManager>
