@@ -62632,6 +62632,4 @@
 		<type id="org.ehcache.transactions.xa.internal.XATransactionContext"/>
 		<type id="org.ehcache.transactions.xa.internal.journal.TransientJournal"/>
 		<type id="org.ehcache.transactions.xa.internal.xml.TxCacheManagerServiceConfigurationParser"/>
-		<type id="org.ehcache.transactions.xa.txmgr.btm.BitronixTransactionManagerLookup"/>
-		<type id="org.ehcache.transactions.xa.internal.txmgr.provider.DefaultTransactionManagerProviderFactory"/>
-		<type id="org.eh
+		<type id="org.ehcache.transactions.xa.
