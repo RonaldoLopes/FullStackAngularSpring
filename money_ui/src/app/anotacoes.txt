@@ -15,3 +15,6 @@ npm install angular2-jwt --save
 
 como fazer build
 ng build --prod //meta-flag
+
+ng g m dashboard --routing //cria rota
+npm install chart.js --save

@@ -9,19 +9,19 @@
     {
       "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty",
       "name": "algamoney.mail",
-      "sourceMethod": "getMail()",
+      "sourceMethod": "public com.example.algamoney.api.config.property.AlgamoneyApiProperty.Mail getMail() ",
       "type": "com.example.algamoney.api.config.property.AlgamoneyApiProperty$Mail"
     },
     {
       "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty",
       "name": "algamoney.s3",
-      "sourceMethod": "getS3()",
+      "sourceMethod": "public com.example.algamoney.api.config.property.AlgamoneyApiProperty.S3 getS3() ",
       "type": "com.example.algamoney.api.config.property.AlgamoneyApiProperty$S3"
     },
     {
       "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty",
       "name": "algamoney.seguranca",
-      "sourceMethod": "getSeguranca()",
+      "sourceMethod": "public com.example.algamoney.api.config.property.AlgamoneyApiProperty.Seguranca getSeguranca() ",
       "type": "com.example.algamoney.api.config.property.AlgamoneyApiProperty$Seguranca"
     }
   ],
@@ -48,7 +48,6 @@
     },
     {
       "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty",
-      "defaultValue": "http:\/\/localhost:8000",
       "name": "algamoney.origin-permitida",
       "type": "java.lang.String"
     },
@@ -59,7 +58,6 @@
     },
     {
       "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty$S3",
-      "defaultValue": "aw-algamoney-arquivos",
       "name": "algamoney.s3.bucket",
       "type": "java.lang.String"
     },
@@ -70,7 +68,6 @@
     },
     {
       "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty$Seguranca",
-      "defaultValue": false,
       "name": "algamoney.seguranca.enable-https",
       "type": "java.lang.Boolean"
     }
